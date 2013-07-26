@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: latexila 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-03 21:47+0200\n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2013-07-26 09:02+0200\n"
 "Last-Translator: Odysseus <odysseus@fedoraproject.org>\n"
 "Language-Team: Italian\n"
 "Language: \n"
@@ -160,7 +160,7 @@ msgstr "Compilazione sicura"
 
 #: ../src/build_tool_dialog.vala:209
 msgid "Post Processor"
-msgstr "Post processor"
+msgstr "Post-processore"
 
 #: ../src/build_tool_runner.vala:303
 msgid "Rubber may not support filenames with spaces (even in a directory)"
@@ -200,11 +200,11 @@ msgstr "Seleziona i file che vuoi eliminare:"
 
 #: ../src/clean_build_files.vala:337
 msgid "No build file to clean up."
-msgstr "Nessun file temporaneo da cancellare."
+msgstr "Nessun file ausiliario da cancellare."
 
 #: ../src/completion.vala:269
 msgid "No matching proposal"
-msgstr "Nessuna corrispondenza proposta"
+msgstr "Nessuna corrispondenza"
 
 #. Translators: "Ln" is an abbreviation for "Line", Col is an abbreviation for
 #. "Column". Please, use abbreviations if possible.
@@ -1874,7 +1874,7 @@ msgstr "Puoi selezionare questa freccia e copiare/incollare!"
 
 #: ../src/ui/preferences_dialog.ui.h:1
 msgid "Always show all information for the Latexmk post processor"
-msgstr "Mostra sempre tutte le informazioni per il post processore Latexmk"
+msgstr "Mostra sempre tutte le informazioni per il post-processore Latexmk"
 
 #: ../src/ui/preferences_dialog.ui.h:2
 msgid "Automatically clean-up files after close"
@@ -1882,7 +1882,7 @@ msgstr "Pulisci automaticamente i file alla chiusura"
 
 #: ../src/ui/preferences_dialog.ui.h:3
 msgid "Autosave files every"
-msgstr "Salvataggio _automatico dei file correnti ogni"
+msgstr "Salvataggio automatico dei file correnti ogni"
 
 #: ../src/ui/preferences_dialog.ui.h:4
 msgid "Build Tools"
@@ -2015,7 +2015,7 @@ msgstr "Re-imposta il campo Cerca"
 
 #: ../src/ui/search_and_replace.ui.h:3
 msgid "Clear Replace"
-msgstr "Re-imposta il campo Sistituisci"
+msgstr "Re-imposta il campo Sostituisci"
 
 #: ../src/ui/search_and_replace.ui.h:4
 msgid "Close"
